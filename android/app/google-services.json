@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783992933181",
+    "project_id": "brrm-c62e3",
+    "storage_bucket": "brrm-c62e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783992933181:android:913efcf84e495eb7639354",
+        "android_client_info": {
+          "package_name": "com.example.brrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783992933181-ruppl8mqbhf37g9btl20l0dadu0a0pu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx90W6Pj0mX-tYGbi1bDI-Olrg33bKehU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783992933181-ruppl8mqbhf37g9btl20l0dadu0a0pu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
